@@ -4,6 +4,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+Coding+💻;Learning+Android+Development;Building+my+future+🚀">
+  <p align="center">
+  <img src="Screenshot_2026-04-03-00-12-50-703_com.instagram.android~2.jpg" width="150" style="border-radius:50%;">
+</p>
 </p>
 
 ---
